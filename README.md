@@ -1,3 +1,5 @@
+#Recommendations for Microsoft Streaming Platform
+
 As part of my Data Science bootcamp at the Flatiron School, my partner and I were tasked with developing a recommendation for an imaginary Microsoft streaming platform. This project was my first project for the Flatiron School and served as an introduction to the field of data science. While not novel for the field of data science, it served as an introduction into the field by developing my skills in data analysis, data visualization, and API Calls
 
 We decided to look into television shows as a starting point for Microsoft’s streaming platform. The sector of online streaming has really grown in the past years, and in 2017, Netflix has reported revenues that exceed that of major cable networks. My partner and I decided to start off by research television shows. Television shows were chosen, because of their relatively low cost, subscriber retention rates, and past success with television shows. For these reasons, we decided to look into areas where existing players in the market had succeeded. 
