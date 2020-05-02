@@ -1,4 +1,6 @@
-#Recommendations for Microsoft Streaming Platform
+Recommendations for Microsoft Streaming Platform
+
+Presentation Link- https://docs.google.com/presentation/d/1wtyqzvjSc-H5nSGmpEjUlhMA2oFjMRWtIVBwOr8QfD0/edit?usp=sharing
 
 As part of my Data Science bootcamp at the Flatiron School, my partner and I were tasked with developing a recommendation for an imaginary Microsoft streaming platform. This project was my first project for the Flatiron School and served as an introduction to the field of data science. While not novel for the field of data science, it served as an introduction into the field by developing my skills in data analysis, data visualization, and API Calls
 
